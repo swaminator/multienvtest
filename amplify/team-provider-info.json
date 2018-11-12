@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "multienvtest-20181112091322-authRole",
+            "UnauthRoleArn": "arn:aws:iam::033205456844:role/multienvtest-20181112091322-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::033205456844:role/multienvtest-20181112091322-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "multienvtest-20181112091322-deployment",
+            "UnauthRoleName": "multienvtest-20181112091322-unauthRole",
+            "StackName": "multienvtest-20181112091322",
+            "StackId": "arn:aws:cloudformation:us-east-1:033205456844:stack/multienvtest-20181112091322/4293bdc0-e69e-11e8-ae38-50d5cd26c2d2"
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "bucketName": "multienvtest-dev",
+    "authPolicyName": "s3_amplify_237b2577",
+    "unauthPolicyName": "s3_amplify_237b2577",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authPermissions": "rw",
+    "unauthPermissions": "r"
+}
